@@ -1,4 +1,4 @@
-# 
+# Turbo RAGFlow extensions. Featuring multi-language-support and hybrid-AI-models — optimized for maximum performance and efficiency.
 
 
 
